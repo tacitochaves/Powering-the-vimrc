@@ -1,0 +1,14 @@
+Instalaremos este plugin no VI para fazer a diferenciação em cores dos códigos HTML do Perl.
+
+Para baixá-lo, vá até este link e escolha a versão mais recente deste plugin.
+
+http://www.vim.org/scripts/script.php?script_id=3168
+
+Mova o arquivo para o diretório ~/.vim e abra o arquivo baixado com o vi.
+
+Realize o seguinte procedimento para fazer a instalação do plugin:
+
+vi mojo-0_04.vba
+:so % + Enter
+
+Só aguardar a instalação
