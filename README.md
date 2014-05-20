@@ -1,4 +1,4 @@
 Powering-the-vimrc
 ==================
 
-Compiling seen some plugins for targeted programming
+Compiling some of the VI editor plugins for better programming.
