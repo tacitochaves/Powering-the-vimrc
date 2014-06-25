@@ -10,3 +10,4 @@ Displays information from the syntax of Perl code according to the manual.
 To use just leave the cursor over the word and pressior: shift + k.
 
 set keywordprg=perldoc\ -f
+set tabstop=4
