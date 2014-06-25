@@ -1,0 +1,12 @@
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Artefact: Vimrc file
+" Author: Tácito Chaves
+" Contact: chaves@tchaves.com.br Skype: tacito.chaves
+" Created: 25/06/2014
+" Description: This is a simple vim configuration file .vimrc
+"
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Displays information from the syntax of Perl code according to the manual. 
+To use just leave the cursor over the word and pressior: shift + k.
+
+set keywordprg=perldoc\ -f
