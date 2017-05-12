@@ -2,6 +2,8 @@ Author: Tácito Chaves
 Created: 05/13/2014
 Description: This is a simple vim configuration file .vimrc
  
+Crie o arquivo caso ele não exista
+vi ~/.vimrc
 nmap <C-f> :%!perltidy -q<CR>
 nnoremap <C-f> :%!perltidy -q<CR>
 vnoremap <C-f> :!perltidy -q<CR>
