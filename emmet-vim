@@ -1,0 +1,14 @@
+Plugin para automatizar a criação de templates HTML, CSS
+
+1 - Baixe no site a versão mais nova
+https://github.com/mattn/emmet-vim
+
+2 - Descompacte dentro da pasta do vim
+cd .vim/
+unzip emmet-vim.zip
+
+3 - Crie atalhos para criação de tags
+html:5
+div#div>p#p
+
+ao final combine ctrl + y e aperte ','
