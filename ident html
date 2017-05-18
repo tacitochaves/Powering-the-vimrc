@@ -1,0 +1,4 @@
+Entre no arquivo vi ~/.vimrc . Se não tiver, crie-o.
+filetype indent on
+set filetype=html
+set smartindent
